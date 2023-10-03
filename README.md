@@ -1,5 +1,5 @@
 ### Olá, meu nome é André 👋
-( Framework7 | CSS3 | HTML5 | Javascript | NoSQL | NodeJS | CapacitorJS | Bootstrap5 | Firebase Realtime, Authentication, Storage, Functions, Messaging )
+( Framework7 | CSS3 | HTML5 | Javascript | NoSQL | NodeJS | CapacitorJS | Bootstrap5 | ViteJS | Firebase Realtime, Authentication, Storage, Functions, Messaging )
 
 <h2>Algumas coisas a mais:</h2>
 <ul>
