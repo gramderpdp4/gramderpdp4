@@ -14,6 +14,7 @@
   <li>Big Data Analytics</li>
   <li>Microserviços</li>
   <li>PWA</li>
+  <li>SSR</li>
 </ul>
 <h2>Alguns aplicativos que já desenvolvi ou em desenvolvimento:</h2>
 <li>Paywall ( Cliente, Administrador )</li>
@@ -22,3 +23,6 @@
 <li>Sistema completo de Cardápio Digital com QRCode ( Cliente, Administrador )</li>
 <li>Sistema das eleições 2022 em tempo real</li>
 <li>WebScrapper</li>
+<h2>Estudando atualmente:</h2>
+<li>ThreeJS</li>
+<li>UX/UI Design</li>
