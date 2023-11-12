@@ -17,12 +17,19 @@
   <li>SSR</li>
 </ul>
 <h2>Alguns aplicativos que já desenvolvi ou em desenvolvimento:</h2>
+<li style="display: flex">
+  <p>Sistema das eleições 2022 em tempo real ( Back e Front )</p>
+  <ul>
+    <li><a href="#">imagem 1</a></li>
+    <li><a href="#">imagem 2</a></li>
+    <li><a href="#">imagem 3</a></li>
+  </ul>
+</li>
+<li>Sistema completo de Cardápio Digital com QRCode ( Cliente, Administrador ) <a style="text-decoration: underline" href="https://cardapio.playum.com.br/?restaurant=9tk21CpjWWZ2k6tkQxJFmGGcnEl1&table=39900">Veja o demo</a></li>
 <li>Paywall ( Cliente, Administrador )</li>
 <li>Chat em tempo real</li>
 <li>Coleta seletiva inteligente (APP Android/IOS)</li>
-<li>Sistema completo de Cardápio Digital com QRCode ( Cliente, Administrador )</li>
-<li>Sistema das eleições 2022 em tempo real</li>
 <li>WebScrapper</li>
 <h2>Estudando atualmente:</h2>
-<li>ThreeJS</li>
+<li>VueJS</li>
 <li>UX/UI Design</li>
