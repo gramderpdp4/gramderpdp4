@@ -1,5 +1,5 @@
 ### Olá, meu nome é André 👋
-( Javascript | NodeJS | NoSQL | Vue | Vuetify | Framework7 | Express | ES6 | CSS | HTML | Capacitor | Apache Cordova | Bootstrap | Vite | Jquery | Firebase Realtime, Authentication, Storage, Functions, Messaging | Google Cloud | GitHub )
+( Javascript | NodeJS | NoSQL | Vue | Vuetify | Framework7 | Express | ES6 | CSS | HTML | Capacitor | Apache Cordova | Bootstrap | Vite | Jquery | Firebase Realtime, Authentication, Storage, Functions, Messaging | Google Cloud )
 
 <h2>Algumas coisas a mais:</h2>
 <ul>
