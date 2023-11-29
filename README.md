@@ -26,6 +26,9 @@
 <li>Paywall ( Cliente, Administrador, Microserviços ) <a href="https://assinante.fuxicogospel.com.br/">Veja</a></li>
 <li>Chat em tempo real</li>
 <li>Coleta seletiva inteligente (APP Android/IOS)</li>
+<li>Carteira digital ( Front )</li>
+<li>Ponto digital ( Front )</li>
+<li>Sistema completo de apostas esportivas ( APP, Back, Microserviços )</li>
 <li>WebScrapper</li>
 <h2>Estudando atualmente:</h2>
 <li>VueJS</li>
