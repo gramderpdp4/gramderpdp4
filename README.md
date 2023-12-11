@@ -29,11 +29,6 @@
     <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/cardapio.playum.com.br__restaurant%3D9tk21CpjWWZ2k6tkQxJFmGGcnEl1%26table%3D39900(iPhone%20SE)%20(9).png?alt=media&token=a7e8482f-4a14-4521-9eeb-98595929ac25">imagem 
 4</a>
 </li>
-<li>Paywall ( Cliente, Administrador, Microserviços ) <a href="https://assinante.fuxicogospel.com.br/">Veja</a></li>
-<li>Chat em tempo real</li>
-<li>Coleta seletiva inteligente (APP Android/IOS)</li>
-<li>Carteira digital ( Front )</li>
-<li>Ponto digital ( Front )</li>
 <li>Sistema completo de apostas esportivas ( APP, Back, Microserviços )
  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/cardapio.playum.com.br__restaurant%3D9tk21CpjWWZ2k6tkQxJFmGGcnEl1%26table%3D39900(iPhone%20SE)%20(8).png?alt=media&token=9634e343-c3e8-4419-9c4a-65a056c16111](https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/futbolao1%20(1).jpg?alt=media&token=129682c7-e5b2-4142-b414-3bd9c45a87cc">imagem 1</a>
    <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/futbolao1%20(8).jpg?alt=media&token=0b66b069-8dc0-4dfd-8080-20ad7ffc565a">imagem 2</a>
@@ -42,10 +37,15 @@
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/futbolao1%20(5).jpg?alt=media&token=52430b84-5a13-4db0-b1fa-5dd6797e4f03">imagem 
 5</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/futbolao1%20(6).jpg?alt=media&token=9ceb68a0-0768-4e49-bf3f-aaf4a224216b">imagem 
-<6/a>
+6/a>
    <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/futbolao1%20(7).jpg?alt=media&token=f7daa171-4936-412c-8aba-060266cefb79">imagem 
-<7/a>
+7/a>
 </li>
+<li>Paywall ( Cliente, Administrador, Microserviços ) <a href="https://assinante.fuxicogospel.com.br/">Veja</a></li>
+<li>Chat em tempo real</li>
+<li>Coleta seletiva inteligente (APP Android/IOS)</li>
+<li>Carteira digital ( Front )</li>
+<li>Ponto digital ( Front )</li>
 <li>WebScrapper</li>
 <h2>Estudando atualmente:</h2>
 <li>VueJS</li>
