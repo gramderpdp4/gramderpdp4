@@ -36,10 +36,8 @@
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/futbolao1%20(4).jpg?alt=media&token=409d2bb8-bd21-49f8-a4ef-cf4a1f607661">imagem 4</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/futbolao1%20(5).jpg?alt=media&token=52430b84-5a13-4db0-b1fa-5dd6797e4f03">imagem 
 5</a>
-  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/futbolao1%20(6).jpg?alt=media&token=9ceb68a0-0768-4e49-bf3f-aaf4a224216b">imagem 
-6</a>
    <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/futbolao1%20(7).jpg?alt=media&token=f7daa171-4936-412c-8aba-060266cefb79">imagem 
-7</a>
+6</a>
 </li>
 <li>Paywall ( Cliente, Administrador, Microserviços ) <a href="https://assinante.fuxicogospel.com.br/">Veja</a></li>
 <li>Chat em tempo real</li>
