@@ -26,6 +26,8 @@
  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/cardapio.playum.com.br__restaurant%3D9tk21CpjWWZ2k6tkQxJFmGGcnEl1%26table%3D39900(iPhone%20SE)%20(8).png?alt=media&token=9634e343-c3e8-4419-9c4a-65a056c16111">imagem 1</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/cardapio.playum.com.br__restaurant%3D9tk21CpjWWZ2k6tkQxJFmGGcnEl1%26table%3D39900(iPhone%20SE)%20(2).png?alt=media&token=782274ac-e665-4f61-9071-25f78d7b3d79">imagem 2</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/cardapio.playum.com.br__restaurant%3D9tk21CpjWWZ2k6tkQxJFmGGcnEl1%26table%3D39900(iPhone%20SE)%20(1).png?alt=media&token=7d90aa08-aec1-4706-94f2-796442a2488d">imagem 3</a>
+    <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/cardapio.playum.com.br__restaurant%3D9tk21CpjWWZ2k6tkQxJFmGGcnEl1%26table%3D39900(iPhone%20SE)%20(9).png?alt=media&token=a7e8482f-4a14-4521-9eeb-98595929ac25">imagem 
+4</a>
 </li>
 <li>Paywall ( Cliente, Administrador, Microserviços ) <a href="https://assinante.fuxicogospel.com.br/">Veja</a></li>
 <li>Chat em tempo real</li>
