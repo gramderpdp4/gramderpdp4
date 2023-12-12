@@ -39,11 +39,22 @@
    <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/futbolao1%20(7).jpg?alt=media&token=f7daa171-4936-412c-8aba-060266cefb79">imagem 
 6</a>
 </li>
+<li>Ponto Digital ( Front )
+ <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asoponto.png?alt=media&token=fc2ec08c-8fd8-4b7e-9bdb-fcdd5fd1b508">imagem 1</a>
+  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asoponto%20(1).png?alt=media&token=bd806285-6e39-4ba3-8fc2-34c073016fc1">imagem 2</a>
+  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asoponto%20(2).png?alt=media&token=28b5e5ef-aa57-4e24-a5b7-b7e633f08510">imagem 3</a>
+  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asoponto%20(3).png?alt=media&token=4febe49f-7527-4c0c-992b-3f09f182c35f">imagem 4</a>
+  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asoponto%20(4).png?alt=media&token=7053c1e7-40cc-4906-8005-c63b9ad2e7b9">imagem 
+5</a>
+   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asoponto%20(5).png?alt=media&token=196c8db9-b922-4a63-a8ff-9be937344e81">imagem 
+6</a>
+    <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asoponto%20(6).png?alt=media&token=1ed833d4-f11d-4a0f-adf6-be62c8ca2b1b">imagem 
+7</a>
+</li>
 <li>Paywall ( Cliente, Administrador, Microserviços ) <a href="https://assinante.fuxicogospel.com.br/">Veja</a></li>
 <li>Chat em tempo real</li>
 <li>Coleta seletiva inteligente (APP Android/IOS)</li>
 <li>Carteira digital ( Front )</li>
-<li>Ponto digital ( Front )</li>
 <li>WebScrapper</li>
 <h2>Estudando atualmente:</h2>
 <li>VueJS</li>
