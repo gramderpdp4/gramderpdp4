@@ -21,6 +21,10 @@
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/localhost_1217_(iPhone%20SE)%20(2).png?alt=media&token=6fd13660-22f3-43f3-bde2-b1313ec84575">imagem 1</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/localhost_1217_(iPhone%20SE)%20(3).png?alt=media&token=38ae8374-146e-415e-a08d-ab9e91615485">imagem 2</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/localhost_1217_(iPhone%20SE)%20(4).png?alt=media&token=25720c34-1b9b-47c3-a7b1-246aaeed1e50">imagem 3</a>
+   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/eleicoes.png?alt=media&token=61163daa-f1e2-471e-8a49-312d593063ef">imagem 4</a>
+  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/eleicoes%20(1).png?alt=media&token=469bbbfa-eb9d-4f18-9fce-8e6158a7eb06">imagem 5</a>
+  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/eleicoes%20(3).png?alt=media&token=c2cdee79-743e-4a3b-9d7e-b8a4832d41d0">imagem 6</a>
+  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/eleicoes%20(2).png?alt=media&token=7dda12a4-f3dc-4b9c-95ec-3b0206ff8709">imagem 7</a>
 </li>
 <li>Sistema completo de Cardápio Digital com QRCode ( Cliente, Administrador ) 
  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/cardapio.playum.com.br__restaurant%3D9tk21CpjWWZ2k6tkQxJFmGGcnEl1%26table%3D39900(iPhone%20SE)%20(8).png?alt=media&token=9634e343-c3e8-4419-9c4a-65a056c16111">imagem 1</a>
