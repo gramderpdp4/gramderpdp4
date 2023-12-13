@@ -7,6 +7,7 @@
   <li>SocketIO</li>
   <li>WebScrapper</li>
   <li>Clean Code</li>
+  <li>Service Worker</li>
 </ul>
 <h2>Experiência em:</h2>
 <ul>
