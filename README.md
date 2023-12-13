@@ -51,10 +51,25 @@
     <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asoponto%20(6).png?alt=media&token=1ed833d4-f11d-4a0f-adf6-be62c8ca2b1b">imagem 
 7</a>
 </li>
+<li>Carteira Digital ( Front )
+ <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asopay%20(1).png?alt=media&token=864b8ea7-bd2c-4817-855f-58b8fd78f95d">imagem 1</a>
+  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asopay%20(2).png?alt=media&token=2ab7295c-7b5f-4e19-b619-e0a017fd0985">imagem 2</a>
+  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asopay%20(3).png?alt=media&token=97d1ee00-162b-4175-91c6-abfe7825991a">imagem 3</a>
+  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asopay%20(4).png?alt=media&token=3847542e-e3f8-488b-a8a8-e70ad7a9f5b3">imagem 4</a>
+  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asopay%20(5).png?alt=media&token=edc6f0fe-b24f-4ef9-aa77-40fc4b2bbf06">imagem 
+5</a>
+   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asopay%20(6).png?alt=media&token=7189144c-2516-467e-910b-981d2ea0b0e3">imagem 
+6</a>
+    <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asopay.jpg?alt=media&token=d4b0d4b5-1902-49a4-820b-5f707a835caf">imagem 
+7</a>
+   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asopay%20(8).png?alt=media&token=ebd650bf-d684-4304-b231-5528debda8e0">imagem 
+8</a>
+   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asopay%20(7).png?alt=media&token=89846eea-1a6a-498d-8eb9-9114a8536e9c">imagem 
+9</a>
+</li>
 <li>Paywall ( Cliente, Administrador, Microserviços ) <a href="https://assinante.fuxicogospel.com.br/">Veja</a></li>
 <li>Chat em tempo real</li>
 <li>Coleta seletiva inteligente (APP Android/IOS)</li>
-<li>Carteira digital ( Front )</li>
 <li>WebScrapper</li>
 <h2>Estudando atualmente:</h2>
 <li>VueJS</li>
