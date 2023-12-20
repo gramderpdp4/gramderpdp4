@@ -72,7 +72,7 @@
    <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asopay%20(7).png?alt=media&token=89846eea-1a6a-498d-8eb9-9114a8536e9c">imagem 
 9</a>
 </li>
-<li>Paywall ( Cliente, Administrador, Microserviços ) <a href="https://assinante.fuxicogospel.com.br/">Veja</a></li>
+<li>Paywall ( Cliente, Administrador, Microserviços )</li>
 <li>Chat em tempo real</li>
 <li>Coleta seletiva inteligente (APP Android/IOS)</li>
 <li>WebScrapper</li>
