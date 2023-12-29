@@ -77,7 +77,7 @@
 <li>Coleta seletiva inteligente (APP Android/IOS)</li>
 <li>WebScrapper</li>
 <h2>Projetos pessoais</h2>
-<li>Sistema de agendamento com notificações ( em desenvolvimento ) <a href="https://play-7ccf8.web.app/">Veja</a></li>
+<li>Sistema de agendamento com notificações push ( em desenvolvimento ) <a href="https://play-7ccf8.web.app/">Veja</a></li>
 <h2>Estudando atualmente:</h2>
 <li>VueJS</li>
 <li>UX/UI Design</li>
