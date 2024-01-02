@@ -73,11 +73,12 @@
 9</a>
 </li>
 <li>Paywall ( Cliente, Administrador, Microserviços )</li>
-<li>Chat em tempo real</li>
+<li>Chat de atendimento ao cliente em tempo real</li>
 <li>Coleta seletiva inteligente (APP Android/IOS)</li>
 <li>WebScrapper</li>
 <h2>Projetos pessoais</h2>
 <li>Sistema de agendamento com notificações push ( em desenvolvimento ) <a href="https://play-7ccf8.web.app/">Veja</a></li>
+<li>Chat em tempo real ( em desenvolvimento ) <a href="https://projetos-aprendizado-cf65c.web.app">Veja</a></li>
 <h2>Estudando atualmente:</h2>
 <li>VueJS</li>
 <li>UX/UI Design</li>
