@@ -80,6 +80,6 @@
 <li>Sistema de agendamento com notificações push ( em desenvolvimento ) <a href="https://play-7ccf8.web.app/">Veja</a></li>
 <li>Chat em tempo real ( em desenvolvimento ) <a href="https://projetos-aprendizado-cf65c.web.app">Veja</a></li>
 <h2>Estudando atualmente:</h2>
-<li>VueJS</li>
+<li>MongoDB</li>
 <li>UX/UI Design</li>
 <li>SOLID</li>
