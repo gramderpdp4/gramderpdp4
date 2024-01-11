@@ -78,7 +78,6 @@
 <li>WebScrapper</li>
 <h2>Projetos pessoais</h2>
 <li>Chat em tempo real ( em desenvolvimento ) <a href="https://andre-projetos.web.app/">Veja</a></li>
-<li>Sistema de agendamento com notificações push ( em desenvolvimento ) <a href="https://play-7ccf8.web.app/">Veja</a></li>
 <li>Agendamento de tarefas PWA e APK ( em desenvolvimento ) <a href="https://ionic-project-bd4a7.web.app/">Veja</a></li>
 <h2>Estudando atualmente:</h2>
 <li>MongoDB</li>
