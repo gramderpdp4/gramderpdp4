@@ -19,7 +19,7 @@
 </ul>
 <h2>Principais aplicativos e sistemas desenvolvidos:</h2>
 <li>Sistema das eleições 2022 em tempo real ( Back e Front ) |
-  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/video_eleicoes.mp4?alt=media&token=571784fc-10c6-40c2-bf80-bc772a67bb38"><strong>Vìdeo</strong></a> | 
+  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/video_eleicoes.mp4?alt=media&token=571784fc-10c6-40c2-bf80-bc772a67bb38"><strong>Vìdeo</strong></a> 
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/localhost_1217_(iPhone%20SE)%20(2).png?alt=media&token=6fd13660-22f3-43f3-bde2-b1313ec84575">imagem 1</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/localhost_1217_(iPhone%20SE)%20(3).png?alt=media&token=38ae8374-146e-415e-a08d-ab9e91615485">imagem 2</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/localhost_1217_(iPhone%20SE)%20(4).png?alt=media&token=25720c34-1b9b-47c3-a7b1-246aaeed1e50">imagem 3</a>
@@ -28,14 +28,14 @@
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/eleicoes%20(3).png?alt=media&token=c2cdee79-743e-4a3b-9d7e-b8a4832d41d0">imagem 6</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/eleicoes%20(2).png?alt=media&token=7dda12a4-f3dc-4b9c-95ec-3b0206ff8709">imagem 7</a>
 </li>
-<li>Sistema completo de Cardápio Digital com QRCode ( Cliente, Administrador ) 
+<li>Sistema completo de Cardápio Digital com QRCode ( Cliente, Administrador ) | 
  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/cardapio.playum.com.br__restaurant%3D9tk21CpjWWZ2k6tkQxJFmGGcnEl1%26table%3D39900(iPhone%20SE)%20(8).png?alt=media&token=9634e343-c3e8-4419-9c4a-65a056c16111">imagem 1</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/cardapio.playum.com.br__restaurant%3D9tk21CpjWWZ2k6tkQxJFmGGcnEl1%26table%3D39900(iPhone%20SE)%20(2).png?alt=media&token=782274ac-e665-4f61-9071-25f78d7b3d79">imagem 2</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/cardapio.playum.com.br__restaurant%3D9tk21CpjWWZ2k6tkQxJFmGGcnEl1%26table%3D39900(iPhone%20SE)%20(1).png?alt=media&token=7d90aa08-aec1-4706-94f2-796442a2488d">imagem 3</a>
     <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/cardapio.playum.com.br__restaurant%3D9tk21CpjWWZ2k6tkQxJFmGGcnEl1%26table%3D39900(iPhone%20SE)%20(9).png?alt=media&token=a7e8482f-4a14-4521-9eeb-98595929ac25">imagem 
 4</a>
 </li>
-<li>Sistema completo de apostas esportivas ( APP, Back, Microserviços )
+<li>Sistema completo de apostas esportivas ( APP, Back, Microserviços ) |
  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/futbolao1%20(1).jpg?alt=media&token=129682c7-e5b2-4142-b414-3bd9c45a87cc">imagem 1</a>
    <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/futbolao1%20(8).jpg?alt=media&token=0b66b069-8dc0-4dfd-8080-20ad7ffc565a">imagem 2</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/futbolao1%20(3).jpg?alt=media&token=99883b89-2263-4c7e-b3b5-bb915ed37f04">imagem 3</a>
@@ -45,7 +45,7 @@
    <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/futbolao1%20(7).jpg?alt=media&token=f7daa171-4936-412c-8aba-060266cefb79">imagem 
 6</a>
 </li>
-<li>Ponto Digital ( Front )
+<li>Ponto Digital ( Front ) | 
  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asoponto.png?alt=media&token=fc2ec08c-8fd8-4b7e-9bdb-fcdd5fd1b508">imagem 1</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asoponto%20(1).png?alt=media&token=bd806285-6e39-4ba3-8fc2-34c073016fc1">imagem 2</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asoponto%20(2).png?alt=media&token=28b5e5ef-aa57-4e24-a5b7-b7e633f08510">imagem 3</a>
@@ -57,7 +57,7 @@
     <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asoponto%20(6).png?alt=media&token=1ed833d4-f11d-4a0f-adf6-be62c8ca2b1b">imagem 
 7</a>
 </li>
-<li>Carteira Digital ( Front )
+<li>Carteira Digital ( Front ) | 
  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asopay%20(1).png?alt=media&token=864b8ea7-bd2c-4817-855f-58b8fd78f95d">imagem 1</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asopay%20(2).png?alt=media&token=2ab7295c-7b5f-4e19-b619-e0a017fd0985">imagem 2</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asopay%20(3).png?alt=media&token=97d1ee00-162b-4175-91c6-abfe7825991a">imagem 3</a>
@@ -73,7 +73,7 @@
    <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asopay%20(7).png?alt=media&token=89846eea-1a6a-498d-8eb9-9114a8536e9c">imagem 
 9</a>
 </li>
-<li>Paywall ( Cliente, Administrador, Microserviços )
+<li>Paywall ( Cliente, Administrador, Microserviços ) | 
  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/paywall.jpg?alt=media&token=2a2b2636-95bf-488c-a8dd-18b58899a64e">imagem 1</a>
  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/paywall1.jpg?alt=media&token=e48ca586-867d-4f8a-9786-670763ab32ed">imagem 2</a>
  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/paywall6.jpg?alt=media&token=fe977bf4-8bbe-4767-89b7-39d271fe6380">imagem 3</a>
