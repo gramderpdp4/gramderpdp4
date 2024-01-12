@@ -76,7 +76,7 @@
  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/paywall.jpg?alt=media&token=2a2b2636-95bf-488c-a8dd-18b58899a64e">imagem 1</a>
  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/paywall1.jpg?alt=media&token=e48ca586-867d-4f8a-9786-670763ab32ed">imagem 2</a>
  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/paywall6.jpg?alt=media&token=fe977bf4-8bbe-4767-89b7-39d271fe6380">imagem 3</a>
- <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/paywall7.jpg?alt=media&token=c22b205f-9002-4447-800f-52c4b33cc777">imagem 3</a>
+ <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/paywall7.jpg?alt=media&token=c22b205f-9002-4447-800f-52c4b33cc777">imagem 4</a>
 </li>
 <li>Chat de atendimento ao cliente em tempo real</li>
 <li>Coleta seletiva inteligente (APP Android/IOS)</li>
