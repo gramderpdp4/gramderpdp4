@@ -4,8 +4,8 @@
 <h2>Algumas coisas a mais:</h2>
 <ul>
   <li>Design Patterns</li>
-  <li>SocketIO</li>
-  <li>WebScrapper</li>
+  <li>Socket.io</li>
+  <li>Web Scrapper</li>
   <li>Clean Code</li>
   <li>Service Worker</li>
 </ul>
