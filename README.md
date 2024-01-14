@@ -45,7 +45,7 @@
    <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/futbolao1%20(7).jpg?alt=media&token=f7daa171-4936-412c-8aba-060266cefb79">imagem 
 6</a>
 </li>
-<li>Ponto Digital ( Front ) | 
+<li>Ponto Digital (PWA) | 
  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asoponto.png?alt=media&token=fc2ec08c-8fd8-4b7e-9bdb-fcdd5fd1b508">imagem 1</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asoponto%20(1).png?alt=media&token=bd806285-6e39-4ba3-8fc2-34c073016fc1">imagem 2</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asoponto%20(2).png?alt=media&token=28b5e5ef-aa57-4e24-a5b7-b7e633f08510">imagem 3</a>
@@ -57,7 +57,7 @@
     <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asoponto%20(6).png?alt=media&token=1ed833d4-f11d-4a0f-adf6-be62c8ca2b1b">imagem 
 7</a>
 </li>
-<li>Carteira Digital ( Front ) | 
+<li>Carteira Digital (PWA) | 
  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asopay%20(1).png?alt=media&token=864b8ea7-bd2c-4817-855f-58b8fd78f95d">imagem 1</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asopay%20(2).png?alt=media&token=2ab7295c-7b5f-4e19-b619-e0a017fd0985">imagem 2</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asopay%20(3).png?alt=media&token=97d1ee00-162b-4175-91c6-abfe7825991a">imagem 3</a>
