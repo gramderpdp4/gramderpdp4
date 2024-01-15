@@ -88,6 +88,7 @@
 <li>Aplicativo de tarefas PWA e APK ( em desenvolvimento ) <a href="https://ionic-project-bd4a7.web.app/">Veja</a></li>
 <li>Armazenamento em nuvem ( em desenvolvimento )</li>
 <h2>Estudando atualmente:</h2>
+<li>TypeScript</li>
 <li>MongoDB</li>
 <li>UX/UI Design</li>
 <li>SOLID</li>
