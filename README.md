@@ -7,6 +7,7 @@
   <li>Socket.io</li>
   <li>Web Scrapper</li>
   <li>Clean Code</li>
+  <li>Mobile First</li>
   <li>Service Worker</li>
 </ul>
 <h2>Experiência em:</h2>
