@@ -18,7 +18,7 @@
   <li>Microserviços</li>
   <li>PWA</li>
 </ul>
-<h2>Principais aplicativos e sistemas desenvolvidos:</h2>
+<h2>Principais aplicativos e sistemas que colaborei:</h2>
 <li>Sistema das eleições 2022 em tempo real ( Back e Front ) |
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/video_eleicoes.mp4?alt=media&token=571784fc-10c6-40c2-bf80-bc772a67bb38"><strong>Vìdeo</strong></a> 
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/localhost_1217_(iPhone%20SE)%20(2).png?alt=media&token=6fd13660-22f3-43f3-bde2-b1313ec84575">imagem 1</a>
