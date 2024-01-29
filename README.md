@@ -92,4 +92,4 @@
 <li>TypeScript</li>
 <li>MongoDB</li>
 <li>UX/UI Design</li>
-<li>SOLID</li>
+<li>S.O.L.I.D</li>
