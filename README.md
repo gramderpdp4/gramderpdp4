@@ -87,7 +87,6 @@
 <li>Chat em tempo real <a href="https://andre-projetos.web.app/">Veja</a></li>
 <li>Armazenamento em nuvem ( em desenvolvimento ) <a href="https://andre-cloud-storage.web.app">Veja</a></li>
 <li>Aplicativo de tarefas PWA e APK ( em desenvolvimento ) <a href="https://ionic-project-bd4a7.web.app/">Veja</a></li>
-<li>Agenda ( em desenvolvimento ) <a href="https://play-7ccf8.web.app/">Veja</a></li>
 <h2>Estudando atualmente:</h2>
 <li>TypeScript</li>
 <li>MongoDB</li>
