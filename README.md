@@ -1,5 +1,4 @@
-<html style="background-color: #000000">
-  Olá, meu nome é André 👋
+<h1>Olá, meu nome é André 👋</h1>
 ( Javascript ES6+ | NodeJS | Typescript | NoSQL | Vue | Vuetify | Quasar | PrimeVue | Framework7 | Ionic | Express | Tailwind | CSS | HTML | Capacitor | Apache Cordova | Bootstrap | Vite | Firebase Realtime, Authentication, Storage, Functions, Messaging | Google Cloud )
 
 <h2>Algumas coisas a mais:</h2>
@@ -93,4 +92,3 @@
 <li>UX/UI Design</li>
 <li>S.O.L.I.D</li>
 
-</html>
