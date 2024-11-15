@@ -14,7 +14,6 @@
 <ul>
   <li>Sistemas de grande complexibilidade e que exigem escalabilidade</li>
   <li>Aplicativos híbridos com alta perfomance e escalabilidade</li>
-  <li>Big Data Analytics</li>
   <li>Microserviços</li>
   <li>PWA</li>
 </ul>
