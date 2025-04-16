@@ -4,7 +4,7 @@
 <h2>Algumas coisas a mais:</h2>
 <ul>
   <li>Design Patterns</li>
-  <li>Socket.io</li>
+  <li>WebSocket</li>
   <li>Web Scrapper</li>
   <li>Clean Code</li>
   <li>Mobile First</li>
