@@ -1,5 +1,5 @@
 <h1>Olá, meu nome é André 👋</h1>
-( Typescript | NodeJS | NoSQL | Vue | Framework7 | Ionic | ExpressJS | TailwindCSS | CSS3 | HTML5 | CapacitorJS | Apache Cordova | Bootstrap | ViteJS | Firebase Realtime, Authentication, Storage, Functions, Messaging | Google Cloud )
+Typescript | NodeJS | NoSQL | VueJS | TailwindCSS | ViteJS | Framework7 | Ionic | CSS3 | HTML5 | CapacitorJS | Apache Cordova | Bootstrap | Firebase Realtime, Authentication, Storage, Functions, Messaging | Google Cloud
 
 <h2>Algumas coisas a mais:</h2>
 <ul>
