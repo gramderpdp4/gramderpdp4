@@ -86,6 +86,5 @@ Typescript | NodeJS | NoSQL | VueJS | TailwindCSS | ViteJS | Framework7 | Ionic 
 <li>Chat em tempo real <a href="https://andre-projetos.web.app/">Veja</a></li>
 <li>Armazenamento em nuvem ( em desenvolvimento ) <a href="https://andre-cloud-storage.web.app">Veja</a></li>
 <h2>Estudando atualmente:</h2>
-<li>MongoDB</li>
 <li>UX/UI Design</li>
 
