@@ -5,7 +5,7 @@ Typescript | NodeJS | NoSQL | VueJS | TailwindCSS | ViteJS | Framework7 | Ionic 
 <ul>
   <li>Design Patterns</li>
   <li>WebSocket</li>
-  <li>Web Scrapper</li>
+  <li>Web Scraper</li>
   <li>Clean Code</li>
   <li>Mobile First</li>
   <li>Service Worker/Workbox</li>
