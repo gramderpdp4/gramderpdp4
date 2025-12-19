@@ -28,6 +28,12 @@ Typescript | NodeJS | NoSQL | VueJS | TailwindCSS | ViteJS | Framework7 | Ionic 
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/eleicoes%20(3).png?alt=media&token=c2cdee79-743e-4a3b-9d7e-b8a4832d41d0">imagem 6</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/eleicoes%20(2).png?alt=media&token=7dda12a4-f3dc-4b9c-95ec-3b0206ff8709">imagem 7</a>
 </li>
+<li>Paywall ( Cliente, Administrador, Microserviços ) | 
+ <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/paywall.jpg?alt=media&token=2a2b2636-95bf-488c-a8dd-18b58899a64e">imagem 1</a>
+ <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/paywall1.jpg?alt=media&token=e48ca586-867d-4f8a-9786-670763ab32ed">imagem 2</a>
+ <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/paywall6.jpg?alt=media&token=fe977bf4-8bbe-4767-89b7-39d271fe6380">imagem 3</a>
+ <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/paywall7.jpg?alt=media&token=c22b205f-9002-4447-800f-52c4b33cc777">imagem 4</a>
+</li>
 <li>Sistema completo de Cardápio Digital com QRCode ( Cliente, Administrador ) | 
  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/cardapio.playum.com.br__restaurant%3D9tk21CpjWWZ2k6tkQxJFmGGcnEl1%26table%3D39900(iPhone%20SE)%20(8).png?alt=media&token=9634e343-c3e8-4419-9c4a-65a056c16111">imagem 1</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/cardapio.playum.com.br__restaurant%3D9tk21CpjWWZ2k6tkQxJFmGGcnEl1%26table%3D39900(iPhone%20SE)%20(2).png?alt=media&token=782274ac-e665-4f61-9071-25f78d7b3d79">imagem 2</a>
@@ -72,12 +78,6 @@ Typescript | NodeJS | NoSQL | VueJS | TailwindCSS | ViteJS | Framework7 | Ionic 
 8</a>
    <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/asopay%20(7).png?alt=media&token=89846eea-1a6a-498d-8eb9-9114a8536e9c">imagem 
 9</a>
-</li>
-<li>Paywall ( Cliente, Administrador, Microserviços ) | 
- <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/paywall.jpg?alt=media&token=2a2b2636-95bf-488c-a8dd-18b58899a64e">imagem 1</a>
- <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/paywall1.jpg?alt=media&token=e48ca586-867d-4f8a-9786-670763ab32ed">imagem 2</a>
- <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/paywall6.jpg?alt=media&token=fe977bf4-8bbe-4767-89b7-39d271fe6380">imagem 3</a>
- <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/paywall7.jpg?alt=media&token=c22b205f-9002-4447-800f-52c4b33cc777">imagem 4</a>
 </li>
 <li>Chat de atendimento ao cliente em tempo real</li>
 <li>Coleta seletiva inteligente (APP Android/IOS)</li>
