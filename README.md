@@ -18,7 +18,7 @@ Typescript | NodeJS | NoSQL | VueJS | TailwindCSS | ViteJS | Framework7 | Ionic 
   <li>PWA</li>
 </ul>
 <h2>Principais aplicativos e sistemas que colaborei:</h2>
-<li>Sistema das eleições 2022 em tempo real ( Back e Front ) |
+<li>Eleições 2022 em tempo real ( Back e Front ) |
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/video_eleicoes.mp4?alt=media&token=571784fc-10c6-40c2-bf80-bc772a67bb38"><strong>Vìdeo</strong></a> 
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/localhost_1217_(iPhone%20SE)%20(2).png?alt=media&token=6fd13660-22f3-43f3-bde2-b1313ec84575">imagem 1</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/localhost_1217_(iPhone%20SE)%20(3).png?alt=media&token=38ae8374-146e-415e-a08d-ab9e91615485">imagem 2</a>
@@ -28,7 +28,7 @@ Typescript | NodeJS | NoSQL | VueJS | TailwindCSS | ViteJS | Framework7 | Ionic 
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/eleicoes%20(3).png?alt=media&token=c2cdee79-743e-4a3b-9d7e-b8a4832d41d0">imagem 6</a>
   <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/eleicoes%20(2).png?alt=media&token=7dda12a4-f3dc-4b9c-95ec-3b0206ff8709">imagem 7</a>
 </li>
-<li>Paywall ( Cliente, Administrador, Microserviços ) | 
+<li>Assinatura paga ( Cliente, Administrador, Microserviços ) | 
  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/paywall.jpg?alt=media&token=2a2b2636-95bf-488c-a8dd-18b58899a64e">imagem 1</a>
  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/paywall1.jpg?alt=media&token=e48ca586-867d-4f8a-9786-670763ab32ed">imagem 2</a>
  <a href="https://firebasestorage.googleapis.com/v0/b/playum-f71b9.appspot.com/o/paywall6.jpg?alt=media&token=fe977bf4-8bbe-4767-89b7-39d271fe6380">imagem 3</a>
