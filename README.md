@@ -80,7 +80,6 @@ Typescript | NodeJS | NoSQL | VueJS | TailwindCSS | ViteJS | Framework7 | Ionic 
 9</a>
 </li>
 <li>Chat de atendimento ao cliente em tempo real</li>
-<li>Coleta seletiva inteligente (APP Android/IOS)</li>
 <li>WebScrapper</li>
 <h2>Projetos pessoais</h2>
 <li>Chat em tempo real <a href="https://andre-projetos.web.app/">Veja</a></li>
